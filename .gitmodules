@@ -1,0 +1,3 @@
+[submodule "qr-code-challenge"]
+	path = qr-code-challenge
+	url = https://github.com/mohamedelbachir/qr-code-challenge.git
