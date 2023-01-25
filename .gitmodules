@@ -1,3 +1,6 @@
 [submodule "qr-code-challenge"]
 	path = qr-code-challenge
 	url = https://github.com/mohamedelbachir/qr-code-challenge.git
+[submodule "product-preview-card-challenge"]
+	path = product-preview-card-challenge
+	url = https://github.com/mohamedelbachir/product-preview-card-challenge
