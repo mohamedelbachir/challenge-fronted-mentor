@@ -4,6 +4,3 @@
 [submodule "product-preview-card-challenge"]
 	path = product-preview-card-challenge
 	url = https://github.com/mohamedelbachir/product-preview-card-challenge
-[submodule "ping-soon-challenge"]
-	path = ping-soon-challenge
-	url = https://github.com/mohamedelbachir/ping-soon-challenge
