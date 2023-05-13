@@ -1,5 +1,5 @@
 # Challenge-fronted-mentor
-Challenge mentor repository to upgrade my fronted skills
+My Challenge mentor repository to upgrade my fronted skills
 **Repository**    |      **Preview**
 :------------: | :------------:
 <a href="https://github.com/mohamedelbachir/ping-soon-challenge">ping-soon-challenge</a> |  [<img src="https://user-images.githubusercontent.com/76158313/229285425-a7e664e1-1561-4de3-83ca-2cc796d4f15f.jpg" width="300" height="auto">](https://mohamedelbachir.github.io/ping-soon-challenge/)
